@@ -1,6 +1,6 @@
 name: hydratex_rx
 description: A starting point for Dart libraries or applications.
-version: 0.1.0
+version: 1.0.0
 homepage: https://github.com/luanemanuel/hydrated_rx
 
 environment:
@@ -16,3 +16,4 @@ dependencies:
 dev_dependencies:
   lints: ^2.0.0
   test: ^1.21.1
+  very_good_analysis: ^3.0.0
